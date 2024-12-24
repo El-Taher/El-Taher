@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Front-End and Cross Platform Mobile Developer.<br>I'm Currently taking a diploma at Information Technology Institute (ITI)
+I'm Front-End and Cross Platform Mobile Developer.<br>I'm graduated from Information Technology Institute (ITI)
 
 
 ## 🌐 Socials:
