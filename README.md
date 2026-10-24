@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-salama-a64b8b197/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-eltaher-a64b8b197)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/el_taher)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedeltaher64@gmail.com)
 
@@ -91,7 +91,7 @@ MarketHive is a marketplace platform built as a team for my ITI graduation. It h
 
 ## 📫 Connect
 
-- 💼 LinkedIn: [ahmed-salama-a64b8b197](https://linkedin.com/in/ahmed-salama-a64b8b197/)
+- 💼 LinkedIn: [ahmed-salama-a64b8b197](www.linkedin.com/in/ahmed-eltaher-a64b8b197)
 - 💬 Discord: [join the server](https://discord.gg/el_taher)
 - ✉️ Email: [ahmedeltaher64@gmail.com](mailto:ahmedeltaher64@gmail.com)
 
