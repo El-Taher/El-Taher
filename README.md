@@ -9,7 +9,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-salama-a64b8b197/)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AHMED_ELTAHER7)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/el_taher)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedeltaher64@gmail.com)
 
@@ -28,8 +27,6 @@ I graduated from the **Information Technology Institute (ITI)** and I also build
 - 🔌 **What I do:** build UI features and integrate them with REST APIs
 - 🎓 **Education:** Information Technology Institute (ITI), Frontend track
 - 📱 **Also work with:** React, Next.js, React Native, Flutter, Firebase
-- 💼 **Open to:** Frontend and Angular opportunities
-
 ---
 
 ## 🛠️ Tech Stack
@@ -37,19 +34,15 @@ I graduated from the **Information Technology Institute (ITI)** and I also build
 **Core frontend**
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap&theme=dark" />
-    <img alt="Core frontend skills" src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap&theme=light" />
-  </picture>
+  <img alt="Core frontend skills" src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap" />
 </p>
 
 **Frameworks, state and mobile**
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,redux,flutter,dart&theme=dark" />
-    <img alt="Frameworks and mobile skills" src="https://skillicons.dev/icons?i=react,nextjs,redux,flutter,dart&theme=light" />
-  </picture>
+  <img alt="Frameworks and mobile skills" src="https://skillicons.dev/icons?i=react,nextjs,redux,flutter,dart" />
+</p>
+<p>
   <img alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
@@ -57,20 +50,10 @@ I graduated from the **Information Technology Institute (ITI)** and I also build
 **Backend services, tooling and design**
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase,git,github,vite,webpack,npm,netlify,figma&theme=dark" />
-    <img alt="Tooling skills" src="https://skillicons.dev/icons?i=firebase,git,github,vite,webpack,npm,netlify,figma&theme=light" />
-  </picture>
+  <img alt="Tooling skills" src="https://skillicons.dev/icons?i=firebase,git,github,vite,webpack,npm,netlify,figma" />
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | What it is | Built with | Links |
-| :-- | :-- | :-- | :-- |
-| **Pet-Finder** | A pet adoption web app, built during my ITI Frontend track in Banha. | JavaScript, Vite | [Live demo](https://main--pit-finder.netlify.app/) · [Code](https://github.com/El-Taher/Pet-Finder) |
-| **Memory-Game** | A card-matching memory game that runs in the browser. | TypeScript, HTML, CSS | [Live demo](https://main--memory-crd.netlify.app/) · [Code](https://github.com/El-Taher/Memory-Game) |
 
 ### 🐝 MarketHive: ITI Graduation Project
 
@@ -84,8 +67,6 @@ MarketHive is a marketplace platform built as a team for my ITI graduation. It h
 
 **My role:** frontend developer. I built UI features and integrated them with the APIs.
 
-> These are my forks of the team's original repositories under [maghrabyy](https://github.com/maghrabyy). Full credit to the whole team.
-
 ---
 
 ## 🧭 Journey
@@ -96,7 +77,6 @@ MarketHive is a marketplace platform built as a team for my ITI graduation. It h
 | **ITI graduation project** | Worked with a team on MarketHive across web, vendor dashboard and mobile. |
 | **Frontend Developer, 2 years** | Built features and integrated APIs in Angular applications. |
 | **Today** | Building responsive web applications, mainly with Angular and TypeScript. |
-
 
 ---
 
@@ -112,7 +92,6 @@ MarketHive is a marketplace platform built as a team for my ITI graduation. It h
 ## 📫 Connect
 
 - 💼 LinkedIn: [ahmed-salama-a64b8b197](https://linkedin.com/in/ahmed-salama-a64b8b197/)
-- 𝕏 X: [@AHMED_ELTAHER7](https://x.com/AHMED_ELTAHER7)
 - 💬 Discord: [join the server](https://discord.gg/el_taher)
 - ✉️ Email: [ahmedeltaher64@gmail.com](mailto:ahmedeltaher64@gmail.com)
 
